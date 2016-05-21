@@ -2,3 +2,5 @@
 A WordPress plugin that makes all images within your blog grayscale while transitioning to color on hover.
 
 ![Demo](https://cloud.githubusercontent.com/assets/6676674/15449710/d00b7356-1f53-11e6-8c14-11cb0595ed3a.gif)
+
+Created for demo purposes but still useable. :ok_hand:
