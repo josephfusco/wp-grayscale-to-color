@@ -2,7 +2,7 @@
 /*
 Plugin Name:    WP Grayscale To Color
 Plugin URI:     http://github.com/josephfusco/wp-grayscale-to-color/
-Description:    Make your images grayscale with color on hover.
+Description:    Make all images within your blog grayscale while transitioning to color on hover.
 Version:        1.0
 Author:         Joseph Fusco
 Author URI:     http://josephfus.co/
